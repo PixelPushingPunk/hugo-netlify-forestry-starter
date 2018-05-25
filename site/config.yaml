@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "https://elastic-fermi-9f4e8b.netlify.com/"
 MetaDataFormat: "yaml"
 DefaultContentLanguage: "en"
 languageCode: "en-us"
