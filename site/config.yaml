@@ -1,0 +1,6 @@
+baseurl: "/"
+MetaDataFormat: "yaml"
+DefaultContentLanguage: "en"
+languageCode: "en-us"
+enableRobotsTXT: true
+title: "Homepage"
